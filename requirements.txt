@@ -1,0 +1,6 @@
+openai
+google-serp-api
+tiktoken
+trafilatura
+google-search-results
+python-dotenv
